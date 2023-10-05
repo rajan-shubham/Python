@@ -1,0 +1,3 @@
+A byte consists of 8 bits, and bits consist of either 0 or 1. A Byte can be interpreted in different ways like binary octal, octal, or hexadecimal. Python stores files in the form of bytes on the disk.
+
+When we open a file in text mode, that file is decoded from bytes to a string object. when we open a file in the binary mode it returns contents as bytes object without decoding.
